@@ -1,7 +1,12 @@
-### seja bem vindo ao meu perfil
+### Seja Bem Vindo ao meu perfil🫠
 
--meu nome é higor
+ Meu nome é Higor🤑
 
--estou estudando na alura
--estou me desenvolvendo na linguagem JavaScript
--utilizo esse epaço para minha organização e compartilhamento de projetos
+- estou estudando na [alura](https//:www.alura.com.br)
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo esse epaço para minha organização e compartilhamento de projetos
+
+### Você pode entrar em contato comigo📪
+
+- higormoreiracordeiro@gmail.com
+- ![o](https://tenor.com/pqWsZIAwcir.gif)
